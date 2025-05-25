@@ -11,4 +11,4 @@
 
 | Service     | Status            | Notes                        |
 |-------------|-------------------|------------------------------|
-| Plex        | 🔴 Down           | Changing UPS batteries       |
+| Plex        | ✅ Operational    |                              |
